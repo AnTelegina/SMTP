@@ -1,5 +1,0 @@
-from: Ananastasia-telegina@yandex.ru
-to: Ananastasia-telegina@yandex.ru sweerlie@gmail.com
-password: KZ21DEDSANANASTASIA230696
-subject: Тестовое письмо
-attachments: kitty.jpg
