@@ -3,3 +3,5 @@ Lib/
 Scripts/
 pyvenv.cfg
 conf.txt
+inf.txt
+configs.txt
